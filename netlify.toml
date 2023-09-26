@@ -1,0 +1,132 @@
+[[redirects]]
+from = "/jobs/*"
+to = "https://editor.subpage.app/dir/jobs.essal.org/:splat"
+status = 200
+force = true
+headers = {X-Forwarded-Host = "<essal.org>"}
+
+
+[[redirects]]
+from = "/jobs"
+to = "https://editor.subpage.app/dir/jobs.essal.org/"
+status = 200
+force = true
+headers = {X-Forwarded-Host = "<essal.org>"}
+
+
+
+[[redirects]]
+from = "/updates/*"
+to = "https://editor.subpage.app/dir/updates.essal.org/:splat"
+status = 200
+force = true
+headers = {X-Forwarded-Host = "<essal.org>"}
+
+[[redirects]]
+from = "/updates"
+to = "https://editor.subpage.app/dir/updates.essal.org/"
+status = 200
+force = true
+headers = {X-Forwarded-Host = "<essal.org>"}
+
+
+
+[[redirects]]
+from = "/blog/*"
+to = "https://editor.subpage.app/dir/blog.essal.org/:splat"
+status = 200
+force = true
+headers = {X-Forwarded-Host = "<essal.org>"}
+
+
+[[redirects]]
+from = "/blog"
+to = "https://editor.subpage.app/dir/blog.essal.org/"
+status = 200
+force = true
+headers = {X-Forwarded-Host = "<essal.org>"}
+
+
+
+[[redirects]]
+from = "/questions/*"
+to = "https://editor.subpage.app/dir/faq.essal.org/:splat"
+status = 200
+force = true
+headers = {X-Forwarded-Host = "<essal.org>"}
+
+
+[[redirects]]
+from = "/questions"
+to = "https://editor.subpage.app/dir/faq.essal.org/"
+status = 200
+force = true
+headers = {X-Forwarded-Host = "<essal.org>"}
+
+
+
+[[redirects]]
+from = "/glossary/*"
+to = "https://editor.subpage.app/dir/glossary.essal.org/:splat"
+status = 200
+force = true
+headers = {X-Forwarded-Host = "<essal.org>"}
+
+
+[[redirects]]
+from = "/glossary"
+to = "https://editor.subpage.app/dir/glossary.essal.org/"
+status = 200
+force = true
+headers = {X-Forwarded-Host = "<essal.org>"}
+
+
+
+[[redirects]]
+from = "/privacy/*"
+to = "https://editor.subpage.app/dir/privacy.essal.org/:splat"
+status = 200
+force = true
+headers = {X-Forwarded-Host = "<essal.org>"}
+
+
+[[redirects]]
+from = "/privacy"
+to = "https://editor.subpage.app/dir/privacy.essal.org/"
+status = 200
+force = true
+headers = {X-Forwarded-Host = "<essal.org>"}
+
+
+
+[[redirects]]
+from = "/terms/*"
+to = "https://editor.subpage.app/dir/terms.essal.org/:splat"
+status = 200
+force = true
+headers = {X-Forwarded-Host = "<essal.org>"}
+
+
+[[redirects]]
+from = "/terms"
+to = "https://editor.subpage.app/dir/terms.essal.org/"
+status = 200
+force = true
+headers = {X-Forwarded-Host = "<essal.org>"}
+
+
+
+[[redirects]]
+from = "/takedown/*"
+to = "https://editor.subpage.app/dir/takedown.essal.org/:splat"
+status = 200
+force = true
+headers = {X-Forwarded-Host = "<essal.org>"}
+
+
+[[redirects]]
+from = "/takedown"
+to = "https://editor.subpage.app/dir/takedown.essal.org/"
+status = 200
+force = true
+headers = {X-Forwarded-Host = "<essal.org>"}
